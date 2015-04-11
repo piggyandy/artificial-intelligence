@@ -1,0 +1,378 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"un",
+				"uniformCostSearch"
+			],
+			[
+				"starting",
+				"startingGameState"
+			],
+			[
+				"maz",
+				"mazeDistance"
+			],
+			[
+				"curren",
+				"current_pos"
+			],
+			[
+				"list",
+				"list_visited"
+			],
+			[
+				"new",
+				"new_corners_visited"
+			],
+			[
+				"corners",
+				"corners_visited"
+			],
+			[
+				"corner",
+				"corner_visited"
+			],
+			[
+				"ne",
+				"nexty"
+			],
+			[
+				"nex",
+				"nextx"
+			],
+			[
+				"next",
+				"nextx"
+			],
+			[
+				"direc",
+				"directionToVector"
+			],
+			[
+				"h",
+				"heuristic"
+			],
+			[
+				"cur",
+				"curCost"
+			],
+			[
+				"get",
+				"getStartState"
+			],
+			[
+				"steam",
+				"steamId32"
+			],
+			[
+				"stea",
+				"steamId32"
+			],
+			[
+				"hero",
+				"heroName"
+			],
+			[
+				"radi",
+				"radiant_win"
+			],
+			[
+				"matchId",
+				"matchId"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"lobby",
+				"lobbyType"
+			],
+			[
+				"lobb",
+				"lobby_type"
+			],
+			[
+				"rad",
+				"radiant_win"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"route",
+				"routeParams"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 121.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 144.0,
+		"history":
+		[
+			"view.settings.get('font_face')",
+			"view.setting.get('font_face')",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/home/andyau/Documents/AI/search/search/util.py",
+		"/home/andyau/Documents/AI/search/search/search.py",
+		"/home/andyau/Documents/AI/search/search/searchAgents.py",
+		"/home/andyau/Documents/AI/search/pacman.py",
+		"/home/andyau/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/andyau/Documents/AI/search/eightpuzzle.py",
+		"/home/andyau/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/andyau/Documents/AI/search/util.py",
+		"/home/andyau/Documents/AI/search/game.py",
+		"/home/andyau/Documents/AI/search/searchAgents.py",
+		"/home/andyau/Documents/AI/search/commands.txt",
+		"/home/andyau/Documents/AI/search/layouts/smallSafeSearch.lay",
+		"/home/andyau/www/D-Flection/app/main.php",
+		"/home/andyau/www/D-Flection/app/js/loginApp.js",
+		"/home/andyau/www/D-Flection/app/index.php",
+		"/home/andyau/www/D-Flection/app/js/dota2Services.js",
+		"/home/andyau/www/D-Flection/app/js/mainControllers.js",
+		"/home/andyau/www/D-Flection/app/js/reflectControllers.js",
+		"/home/andyau/www/D-Flection/D_Flection.sublime-project",
+		"/home/andyau/www/D-Flection/server/node_modules/request/node_modules/form-data/node_modules/combined-stream/node_modules/delayed-stream/test/integration/test-delayed-stream-auto-pause.js",
+		"/home/andyau/www/D-Flection/app/node_modules/bower/node_modules/inquirer/node_modules/cli-color/node_modules/es5-ext/array/_sub-array-dummy.js",
+		"/home/andyau/www/D-Flection/server/node_modules/logfmt/node_modules/through/test/auto-destroy.js",
+		"/home/andyau/www/D-Flection/app/node_modules/bower/node_modules/insight/node_modules/configstore/node_modules/js-yaml/examples/sample_document.js",
+		"/home/andyau/www/D-Flection/app/node_modules/bower/lib/util/readJson.js",
+		"/home/andyau/www/D-Flection/server/package.json",
+		"/home/andyau/www/D-Flection/server/node_modules/mongoose/examples/population/population-across-three-collections.js",
+		"/home/andyau/www/D-Flection/app/bower_components/chartjs/samples/polar-area.html",
+		"/home/andyau/www/D-Flection/server/Procfile",
+		"/home/andyau/Downloads/OpenCV_Properties.props",
+		"/home/andyau/www/D-Flection/server/model/Entry.js",
+		"/home/andyau/www/D-Flection/server/app.js",
+		"/home/andyau/www/D-Flection/app/partials/reflect.html",
+		"/home/andyau/www/D-Flection/app/partials/main.html",
+		"/home/andyau/www/D-Flection/app/css/styles.css",
+		"/home/andyau/www/D-Flection/server/model/kills.js",
+		"/home/andyau/www/D-Flection/server/model/killDetails.js",
+		"/home/andyau/www/D-Flection/server/node_modules/mongoose/lib/connection.js",
+		"/home/andyau/www/D-Flection/server/apikey.js",
+		"/home/andyau/Documents/AI /tutorial/addition.py",
+		"/home/andyau/www/dota2/app/css/styles.css",
+		"/home/andyau/www/D-Flection/server/functions.js",
+		"/home/andyau/www/dota2/server/steamFunctions.js",
+		"/home/andyau/www/D-Flection/app/mainApp.js",
+		"/home/andyau/www/D-Flection/server/steamFunctions.js",
+		"/home/andyau/www/dota2/app/partials/message.html",
+		"/home/andyau/www/D-Flection/app/js/detailsControllers.js",
+		"/home/andyau/www/dota2/app/js/fortuneControllers.js",
+		"/home/andyau/www/D-Flection/app/resources/heroes.json",
+		"/home/andyau/www/D-Flection/app/resources/lobbies.json",
+		"/home/andyau/www/D-Flection/app/resources/lobbies.josn",
+		"/home/andyau/www/D-Flection/app/bower.json",
+		"/home/andyau/www/D-Flection/app/js/fortuneDirectives.js",
+		"/home/andyau/Documents/HEVC/jctvc-hm/source/App/TAppEncoder/encmain.cpp",
+		"/home/andyau/www/D-Flection/app/apikey.php",
+		"/home/andyau/www/D-Flection/app/partials/details.html",
+		"/home/andyau/www/test.html",
+		"/home/andyau/www/D-Flection/app/npm-debug.log",
+		"/home/andyau/www/D-Flection/app/bower_components/angular-resource/package.json",
+		"/home/andyau/www/D-Flection/app/bower_components/angular/package.json",
+		"/home/andyau/www/D-Flection/app/bower_components/angular-resource/bower.json",
+		"/home/andyau/www/D-Flection/app/bower_components/angular-route/package.json",
+		"/home/andyau/www/D-Flection/app/bower_components/angular/bower.json",
+		"/etc/apache2/sites-available/000-default.conf",
+		"/var/www/andy.html",
+		"/var/www/test.html",
+		"/home/andyau/www/www/html/index.html"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 118.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mazeDistance",
+			"getWalls",
+			"mazeDistance",
+			"addNodeDataTo",
+			"node",
+			"getStartState",
+			"depthFirstSearch",
+			"hero_pic",
+			"fortuneController"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "search.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"com",
+				"commands.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 144.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
